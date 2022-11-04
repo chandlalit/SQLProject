@@ -1,6 +1,10 @@
-# SQL Data Cleaning Project
+This repository will contain code/queries related to SQL
 
-Cleaning data in SQL Queries
+Project 1 - SQL Data Cleaning Project
+
+SQL_DataCleaning_NashvilleHousingData
+
+Steps_ SQL Data Cleaning Project
 
 -- Standarize the Date Format
 -- Populate Property Adress data
